@@ -1,24 +1,35 @@
 # Updates till preview 6
 ## Blazor united
-- [Sever-side rendering](/principles.md)
-- [Enhanced navigation](/principles.md)
-- [Form handling](/principles.md)
-- [Stream rendering](/principles.md)
-- [Add client interactivity per component or page](/principles.md)
-- [Choose component render mode at runtime](/principles.md) 
+- Sever-side rendering
+- Enhanced navigation
+- Form handling
+- Stream rendering
+- Add client interactivity per component or page
+- Choose component render mode at runtime
 
 ## Enhancements
-- [Generatestatic HTML content with components](/principles.md)
-- [Quick Grid](/principles.md)
-- [Sections](/principles.md)
-- [Route to named element](/principles.md)
-- [Monitor circuit activity](/principles.md)
-- [Improved authentication](/principles.md) 
+- Generate static HTML content with components
+- Quick Grid
+- Sections
+- Route to named element
+- Monitor circuit activity
+- Improved authentication
 
 ## WebAssembly
-- [Multithreading](/principles.md)
-- [Jiterpreter](/principles.md)
-- [Hot reload improvements](/principles.md)
-- [SIMD & exception handling enabled by default](/principles.md)
-- [CSP compatibility](/principles.md)
-- [Webcil packaging](/principles.md) 
+- Multithreading
+- Jiterpreter
+- Hot reload improvements
+- SIMD & exception handling enabled by default
+- CSP compatibility
+- Webcil packaging
+  
+## APIs
+- Form handling
+- Problem details
+- API development experience
+- Helpful analyzers
+
+## Related article links
+- [Dot-net-8 Preview 5](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-5/)
+- [Dot-net-8 Preview 6](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-6/)
+- [Additional link](https://www.infoq.com/news/2023/07/aspnet-core-8-preview-6/)
